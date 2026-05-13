@@ -9,7 +9,7 @@ This repository is a structured, community-driven roadmap for transitioning from
 *Before you can break it, you must understand how it's built.*
 
 * [ ] **AI/ML Fundamentals**
-* [Learn Prompting (Fundamental Course)](https://learnprompting.org)
+* [ ] [Learn Prompting (Fundamental Course)](https://learnprompting.org)
 * [ ] Supervised vs. Unsupervised vs. Reinforcement Learning
 * [ ] Neural Networks & Transformer Architectures (BERT, GPT)
 * [ ] Generative Models & LLMs
